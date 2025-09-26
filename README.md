@@ -44,7 +44,15 @@ This repository provides an implementation of a **job scheduling optimization mo
     - `draw_gantt()`: plot job-machine allocation.
     - `solution_visualization()`: generate and save Gantt charts with makespan and runtime details.
 
----
+---Result visualization
+3. Result visualization
+ 
+Figure 2 optimized solution vs greedy solution
+ 
+Figure 3optismized solution vs random solution
+<img width="487" height="555" alt="image" src="https://github.com/user-attachments/assets/1d111e81-205b-4058-8f4d-be31bb9b137b" />
+
+
 
 ## ⚙️ Requirements
 
